@@ -1,0 +1,2 @@
+std_msgs/String info
+geometry_msgs/Pose rover_location
